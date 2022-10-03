@@ -164,7 +164,7 @@ nav {
 
 /*FIRST SECTION*/
 .first {
-    background: url("/bg/Bg_1.png");
+    background: url("../bg/Bg_1.png");
     background-size: cover;
     width: 100%;
     min-height: 120vh;
@@ -257,7 +257,7 @@ nav {
 
 /*THIRD SECTION*/
 .third {
-    background: url("/bg/Bg_3.png");
+    background: url("../bg/Bg_3.png");
     background-size: cover;
     width: 100%;
     min-height: 130vh;
@@ -506,7 +506,7 @@ nav {
 /*SIXTH SECTION*/
 
 .sixth {
-    background: url("/bg/Bg_6.png");
+    background: url("../bg/Bg_6.png");
     background-size: cover;
     width: 100%;
     min-height: 60vh;
